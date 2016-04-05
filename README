@@ -54,7 +54,7 @@ http://book.cakephp.org/3.0/en/orm/database-basics.html#database-configuration
 
 INSTALLED IN 6 SIMPLE STEPS
 
-1. download the full calendar zip https://github.com/silasmontgomery/CakePHP-Full-Calendar-Plugin
+1. download the full calendar zip https://github.com/curtisblack2004/CakePHP-Full-Calendar-Plugin/tree/3.x
 
 2. unzip contents to <your-cakephp3.x-app>/plugins/FullCalendar
 
