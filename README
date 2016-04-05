@@ -48,31 +48,32 @@ NOTE: These instructions assume you already have a working copy
 of CakePHP with a database connection on your web server.
 
 You can read up on CakePHP installation and DB config here:
-http://book.cakephp.org/#!/view/913/Development AND
-http://book.cakephp.org/#!/view/922/Database-Configuration
+http://book.cakephp.org/3.0/en/installation.html#installation AND
+http://book.cakephp.org/3.0/en/orm/database-basics.html#database-configuration
 
 
-INSTALLED IN 4 SIMPLE STEPS
+INSTALLED IN 6 SIMPLE STEPS
 
-1. Download or fork the CakePHP Full Calendar Plugin at:
-   https://github.com/silasmontgomery/CakePHP-Full-Calendar-Plugin
+1. download the full calendar zip https://github.com/silasmontgomery/CakePHP-Full-Calendar-Plugin
 
-2. Create the folder "FullCalendar" in your "app/Plugin" directory 
-   and copy the Config, Controller, Model, View, and webroot 
-   folders into it.
+2. unzip contents to <your-cakephp3.x-app>/plugins/FullCalendar
 
-3. Create an "events" and "event_types" table by importing the
-   "FullCalendar.sql" file found in the "FullCalendar/Config" 
-   directory (Using PHPMyAdmin, command-line, etc).
+3. use the sql file under plugins/FullCalendar/config to generate tables in your database
 
-4. In your Cake installation, edit "app/Config/bootstrap.php" 
-   and add the line "CakePlugin::load('FullCalendar');" at the 
-   bottom.
+4. edit <your-cakephp3.x-app>/config/bootstrap.php and add:
+
+	Plugin::load('FullCalendar', ['autoload' => true, 'bootstrap' => false, 'routes' => true]);
+
+	to the end of the file.
+
+5. You may need to alter the routes.php file in plugins/config/routes.php
+
+6. You will also want to fix my code if you want to drag and drop the events and have the new time be saved correctly.
 
 THAT'S IT!
 
 You should now be able to access the Full Calendar Plugin at:
-http://yoursite.com/full_calendar
+http://yoursite.com/full-calendar
 
 You should add some Event Types first. Then you can start
 scheduling some Events!

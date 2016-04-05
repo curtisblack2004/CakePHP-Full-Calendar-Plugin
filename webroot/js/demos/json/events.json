@@ -1,0 +1,57 @@
+[
+  {
+    "title": "All Day Event",
+    "start": "2015-12-01"
+  },
+  {
+    "title": "Long Event",
+    "start": "2015-12-07",
+    "end": "2015-12-10"
+  },
+  {
+    "id": "999",
+    "title": "Repeating Event",
+    "start": "2015-12-09T16:00:00-05:00"
+  },
+  {
+    "id": "999",
+    "title": "Repeating Event",
+    "start": "2015-12-16T16:00:00-05:00"
+  },
+  {
+    "title": "Conference",
+    "start": "2015-12-11",
+    "end": "2015-12-13"
+  },
+  {
+    "title": "Meeting",
+    "start": "2015-12-12T10:30:00-05:00",
+    "end": "2015-12-12T12:30:00-05:00"
+  },
+  {
+    "title": "Lunch",
+    "start": "2015-12-12T12:00:00-05:00"
+  },
+  {
+    "title": "Meeting",
+    "start": "2015-12-12T14:30:00-05:00"
+  },
+  {
+    "title": "Happy Hour",
+    "start": "2015-12-12T17:30:00-05:00"
+  },
+  {
+    "title": "Dinner",
+    "start": "2015-12-12T20:00:00"
+  },
+  {
+    "title": "Birthday Party",
+    "start": "2015-12-13T07:00:00-05:00"
+  },
+  {
+    "title": "Click for Google",
+    "url": "http://google.com/",
+    "start": "2015-12-28"
+  },
+  {"id":10,"title":"Utah REIA Monthly Meeting--Your Investor Toolbox provided with the New Website Launch","start":"2015-11-24T18:30:00-0700","end":"2015-11-24T20:30:00-0700","allDay":false,"url":"\/events\/view\/10","details":"\u003Cp\u003E\u003Cspan\u003EAre you a real estate investor who is looking for\u003C\/span\u003E\u003C\/p\u003E\n\u003Col\u003E\n\t\u003Cli\u003EMore education\u003C\/li\u003E\n\t\u003Cli\u003EIndividuals to connect and network with\u003C\/li\u003E\n\t\u003Cli\u003EDiscounts and special offers from retailers you frequent most\u003C\/li\u003E\n\u003C\/ol\u003E\n\n\u003Cp\u003E\u003Cspan\u003EThe Utah REIA has listened and has created a custom website to meet the needs of the real estate investor. This new website will:\u003C\/span\u003E\u003C\/p\u003E\n\u003Col\u003E\n\t\u003Cli\u003EShowcase discounts and special offers from favorite retailers including, but not limited to, Home Depot, Office Max, and Western Reporting.\u003C\/li\u003E\n\t\u003Cli\u003EProvide access to meeting videos and Powerpoint presentations dating back to the inception of the Utah REIA\u003C\/li\u003E\n\t\u003Cli\u003EAllow for Vendors to customize Business Directory listings as well as provide access to post special discounts and incentives\u003C\/li\u003E\n\t\u003Cli\u003EContinue to provide access\u003Cspan class=\u0022text_exposed_show\u0022\u003E to the Utah REIA Library--an archive of 27 folders filled with publications surrounding topics including, but are not limited to 1031 Exchanges, Foreclosures, Forms & Contracts, and Business Management.\u003C\/li\u003E\n\t\u003Cli\u003EProvide a way to connect easily with members of the Utah REIA\u003C\/li\u003E\n\u003C\/ol\u003E\n\n\u003Cp\u003ECome and learn how all of this works so that you can take advantage of these amazing tools as well as provide us with feedback to help us help meet your needs better!\u003C\/p\u003E","className":"Blue"},{"id":11,"title":"Utah REIA Monthly Networking Luncheon\u2013WHOLESALING A to Z; Beginning to Advanced Training, part two","start":"2015-12-23T11:30:00-0700","end":"2015-12-23T12:30:00-0700","allDay":false,"url":"\/events\/view\/11","details":"\u003Cp\u003EDo you have the ambition to succeed in real estate but not a lot of capital or credit? Wholesaling may be your ticket to success!\u003C\/p\u003E\r\n\r\n\u003Cp\u003EIn the world of wholesaling, the amount of ambition one has directly correlates with the amount success realized.\u003C\/p\u003E\r\n\r\n\u003Cp\u003EFor two months in a row (November 10th and December 8th), Jeff Rappaport of Wasatch Home Buyers will be presenting at the Utah REIA Networking Luncheons, showing attendees how to become successful at wholesaling.\u003C\/p\u003E\r\n\r\n\u003Cp\u003E\u003Cspan\u003EAs these presentations act independently of one another, you may attend one and not the other without feeling lost. However it is highly recommended to attend both.\u003C\/p\u003E\u003C\/span\u003E\r\n\r\n\u003Cp\u003EMr. Rappaport will be providing content relative to both beginner and advanced wholesalers.\u003C\/p\u003E\r\n\r\n\u003Cp\u003E\u003Cspan\u003EMORE ABOUT JEFF RAPPAPORT:\u003C\/span\u003E\u003C\/p\u003E\r\n\u003Cp\u003EMy name is Jeff Rappaport and have been a full time real estate investor since 2000. I quit my job with no savings or safety net after purchasing some informational products on buying and selling real estate. I focused on buying and holding properties without using any of my own money or credit. My business took off after becoming skilled at negotiating short sales and generating over $30K average per deal.\u003C\/p\u003E\r\n\u003Cp\u003EI have had the honor to experience quite a bit in the real estate world. I co-founded the Salt Lake Real Estate Investment Association in 2001, taught real estate seminars for over 3 years in Utah and Nevada, bought and sold raw land and commercial projects and even dabbled in note buying.\u003C\/p\u003E\r\n\u003Cp\u003EIn 2007 and 2008, I bought a 58 lot subdivision, 2 tracts of land and over $5M worth of houses that I renovated. I violated all of my own rules and ended up losing everything during the real estate crash. After being out of the business for 3 years I dove back in a little over a year ago.\u003C\/p\u003E\r\n\u003Cp\u003EI am very fortunate in that I have been exposed to the highs and lows of real estate. I consider myself lucky to have the opportunity to truly learn from my mistakes and have a second chance. Since getting back into real estate my business model has been to wholesale everything. I work in two markets (Utah and Idaho) and have wholesaled houses, multi-family properties and apartments. I am currently working on wholesaling two commercial projects. I create terms through lease options or owner financing and wholesale those properties as well. I use none of my own money (other than some earnest money), have no risk, and about a month ago made $53,600 on one wholesale deal!\u003C\/p\u003E\r\n\u003Cp\u003EAs the market gets more saturated with investors, the competition continues to grow! It becomes harder and harder to find good deals. Let me show you how to find the deals, negotiate them, put them under contract, market them, get paid, and do it the right way so you can build your business. The last thing you want is the Division of Real Estate investigating you for selling real estate without a license. This will be a two part discussion ranging from beginner to advanced wholesaling. Look forward to seeing you in November!\u003C\/p\u003E","className":"Orange"},{"id":12,"title":"WANTED: REAL ESTATE DEALS!","start":"2015-12-22T18:30:00-0700","end":"2015-12-22T20:30:00-0700","allDay":false,"url":"\/events\/view\/12","details":"\u003Cp\u003E5 Sharks will fight for the opportunity to do a deal with you at the December 22nd Monthly Meeting!\u003C\/p\u003E\r\n\r\n\u003Cp\u003EThe Utah REIA is taking submissions from all Dues-Paying Members. As many as 8 participants will be chosen. Each applicant may only submit ONE property for consideration.\u003C\/p\u003E\r\n\r\n\u003Cp\u003ETo apply, send an e-mail to Rebecca Dearing at rebecca@utahreia.org by \u003Cspan\u003EThursday, December 17th\u003C\/span\u003E with the following information:\u003C\/p\u003E\r\n\r\n\u003Col\u003E\r\n\t\u003Cli\u003EProperty address\u003C\/li\u003E\r\n\t\u003Cli\u003EARV\u003C\/li\u003E\r\n\t\u003Cli\u003EPurchase price OR funding amount needed OR partnership proposition\u003C\/li\u003E\r\n\t\u003Cli\u003ERepair price\u003C\/li\u003E\r\n\t\u003Cli\u003EPictures of the property in jpg format. No more than 20.\u003C\/li\u003E\r\n\t\u003Cli\u003EWhat your \u0022deal is\u0022 (looking to sell, partner, or fund)\u003C\/li\u003E\r\n\t\u003Cli\u003EProof of equity in the property: (proof of ownership or valid option\/purchase contact).All information will be kept confidential.\u003C\/li\u003E\r\n\t\u003Cli\u003EAccess to property\u003C\/li\u003E\r\n\t\u003Cli\u003EYour name, telephone number, mailing address and e-mail\u003C\/li\u003E\r\n\u003C\/ol\u003E\r\n\r\n\u003Cp\u003EIf selected to enter the Shark Tank, you will be notified by 5:00 p.m. on \u003Cspan\u003EFriday, December 18th.\u003C\/span\u003E\u003C\/p\u003E\r\n\r\n\u003Cp\u003EFor more information or to apply: Contact Rebecca Dearing by calling (801) 647-8862 or by sending an e-mail to rebecca@utahreia.org.\u003C\/p\u003E","className":"Blue"}
+]
